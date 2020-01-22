@@ -1,0 +1,7 @@
+7863d51f2fba42ea217db48ab9c93cb7 *DESCRIPTION
+a768bad0fa11916708b8ba691c37548e *NAMESPACE
+caf25e666fb3d0e903c48c736caaba5f *R/simprof-dendrogram.R
+a78ecbfc2cd2d6379fd45524b2d74b2d *R/simprof-internal.R
+78cf472cbe8353ab874abd5b8c7fd260 *R/simprof.R
+52567e91a43fb0fdeea9f9d62f567643 *man/simprof.Rd
+4a05727a571e6ee3010bb0eef6b80511 *man/simprof.plot.Rd
